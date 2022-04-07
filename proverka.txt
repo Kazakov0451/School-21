@@ -1,0 +1,2 @@
+leaks -atExit -- ./a.out - утечка!
+python3 linters/cpplint.py --extensions=c name.c
